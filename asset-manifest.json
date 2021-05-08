@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/black-educators/static/css/main.cdb6750e.chunk.css",
+    "main.js": "/black-educators/static/js/main.965a6080.chunk.js",
+    "main.js.map": "/black-educators/static/js/main.965a6080.chunk.js.map",
+    "runtime-main.js": "/black-educators/static/js/runtime-main.a2029bc0.js",
+    "runtime-main.js.map": "/black-educators/static/js/runtime-main.a2029bc0.js.map",
+    "static/css/2.489a6532.chunk.css": "/black-educators/static/css/2.489a6532.chunk.css",
+    "static/js/2.c9b08061.chunk.js": "/black-educators/static/js/2.c9b08061.chunk.js",
+    "static/js/2.c9b08061.chunk.js.map": "/black-educators/static/js/2.c9b08061.chunk.js.map",
+    "static/js/3.83094659.chunk.js": "/black-educators/static/js/3.83094659.chunk.js",
+    "static/js/3.83094659.chunk.js.map": "/black-educators/static/js/3.83094659.chunk.js.map",
+    "index.html": "/black-educators/index.html",
+    "static/css/2.489a6532.chunk.css.map": "/black-educators/static/css/2.489a6532.chunk.css.map",
+    "static/css/main.cdb6750e.chunk.css.map": "/black-educators/static/css/main.cdb6750e.chunk.css.map",
+    "static/js/2.c9b08061.chunk.js.LICENSE.txt": "/black-educators/static/js/2.c9b08061.chunk.js.LICENSE.txt",
+    "static/media/marva1.f4f3311a.jpg": "/black-educators/static/media/marva1.f4f3311a.jpg",
+    "static/media/marva2.b03158ac.jpg": "/black-educators/static/media/marva2.b03158ac.jpg",
+    "static/media/marva3.c1febcd8.jpg": "/black-educators/static/media/marva3.c1febcd8.jpg",
+    "static/media/marva4.74ba5825.jpg": "/black-educators/static/media/marva4.74ba5825.jpg",
+    "static/media/marva_collage.aec49818.jpg": "/black-educators/static/media/marva_collage.aec49818.jpg",
+    "static/media/marvaandtate.32e1bdaa.jpg": "/black-educators/static/media/marvaandtate.32e1bdaa.jpg",
+    "static/media/nyt1.c2fd351e.png": "/black-educators/static/media/nyt1.c2fd351e.png",
+    "static/media/nyt2.c14a081e.png": "/black-educators/static/media/nyt2.c14a081e.png",
+    "static/media/references.23c64ba1.png": "/black-educators/static/media/references.23c64ba1.png",
+    "static/media/tate.ffb215fc.jpeg": "/black-educators/static/media/tate.ffb215fc.jpeg",
+    "static/media/web1.2f9415ff.png": "/black-educators/static/media/web1.2f9415ff.png",
+    "static/media/web2.41cb5627.png": "/black-educators/static/media/web2.41cb5627.png",
+    "static/media/web3.53f71107.png": "/black-educators/static/media/web3.53f71107.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2029bc0.js",
+    "static/css/2.489a6532.chunk.css",
+    "static/js/2.c9b08061.chunk.js",
+    "static/css/main.cdb6750e.chunk.css",
+    "static/js/main.965a6080.chunk.js"
+  ]
+}
